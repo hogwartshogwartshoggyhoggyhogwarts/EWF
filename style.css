@@ -1,0 +1,15 @@
+body{
+    background-size:cover;
+    background-position:center;
+}
+.heading{
+    width:100%;
+    font-size:25px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:bold;
+    
+}
+canvas{
+    box-shadow: 1px 10px 65px green;
+    border-radius: 25px;
+}
